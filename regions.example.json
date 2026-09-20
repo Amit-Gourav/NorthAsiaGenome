@@ -1,0 +1,32 @@
+{
+  "WG": {
+    "name": "West Eurasian gateway",
+    "box": [30, 55, 45, 65],
+    "color": "#415A77"
+  },
+  "NW": {
+    "name": "NW Siberia",
+    "box": [65, 58, 90, 72],
+    "color": "#7B2CBF"
+  },
+  "SW": {
+    "name": "SW Siberia / Altai-Sayan",
+    "box": [80, 48, 100, 56],
+    "color": "#C76D00"
+  },
+  "ES": {
+    "name": "East Siberia",
+    "box": [110, 55, 140, 68],
+    "color": "#00897B"
+  },
+  "WB": {
+    "name": "West Beringia",
+    "box": [150, 55, 178, 70],
+    "color": "#A23B72"
+  },
+  "EA": {
+    "name": "Amur / NE Asia",
+    "box": [120, 40, 140, 52],
+    "color": "#527A32"
+  }
+}
