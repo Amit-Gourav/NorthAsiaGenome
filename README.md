@@ -1,4 +1,4 @@
-# Portable paleoclimate resistance-change analysis
+# Paleoclimate resistance-change analysis
 
 This folder contains a path-independent implementation of the resistance-change analysis. Paths are supplied at run time through command-line arguments.
 
