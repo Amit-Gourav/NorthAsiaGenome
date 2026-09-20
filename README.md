@@ -1,7 +1,5 @@
 # Paleoclimate resistance-change analysis
 
-This folder contains a path-independent implementation of the resistance-change analysis. Paths are supplied at run time through command-line arguments.
-
 The analysis uses climate and paleogeography only.
 
 ## 1. Installation
