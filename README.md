@@ -1,8 +1,8 @@
 # Portable paleoclimate resistance-change analysis
 
-This folder contains a path-independent implementation of the resistance-change analysis. It does not contain or require any personal directory names. Paths are supplied at run time through command-line arguments.
+This folder contains a path-independent implementation of the resistance-change analysis. Paths are supplied at run time through command-line arguments.
 
-The analysis uses climate and paleogeography only. Genetic statistics are not predictors: demographic dates merely select environmental snapshots.
+The analysis uses climate and paleogeography only.
 
 ## 1. Installation
 
@@ -28,7 +28,7 @@ project/
 └── results/
 ```
 
-No directory has to be located under a particular user account. Absolute paths also work when supplied explicitly.
+
 
 ## 3. Run the complete analysis
 
